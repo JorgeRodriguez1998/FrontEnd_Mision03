@@ -183,7 +183,7 @@ nav ul li a:hover{
 }
 
 .content p{
-    margin-bottom: 400px;
+    margin-bottom: -400px;
     width: 350px;
     font-size: 17px;
     text-align: justify;
